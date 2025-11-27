@@ -114,6 +114,10 @@ jdbc:mysql://localhost:3306/your_database_name
 
 <img width="1919" height="1079" alt="Screenshot 2025-11-26 165554" src="https://github.com/user-attachments/assets/713f33e2-06b1-4a9a-a921-d394ab8a703e" />
 <img width="1918" height="1079" alt="Screenshot 2025-11-26 165256" src="https://github.com/user-attachments/assets/6610b08c-e6b6-4b74-af55-d27ce9e259f1" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-26 165444" src="https://github.com/user-attachments/assets/b2d8d952-2cee-4e58-9eef-33ad5a72bef0" />
+<img width="943" height="348" alt="Screenshot 2025-11-26 165520" src="https://github.com/user-attachments/assets/3e527fc7-15b8-4af6-8690-9709d3ab3183" />
+
+
 
 
 
